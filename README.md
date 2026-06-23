@@ -1,7 +1,7 @@
 # python-programming-practices
 A repository dedicated to core Python development, data structures, and algorithmic logic implementations following industry-standard practices.
 
-🚀 Python Core Practices & Test Automation Base
+Python Core Practices & Test Automation Base
 This repository contains structured Python programming implementations, core data structures, architectural logic patterns, and automation foundations.
 
 Key Concepts Covered:
